@@ -1,4 +1,4 @@
-# STRATEGIC-SALES-OPERATIONS-PERFORMANCE-Excel-Project
+# Amazon-Sales-Intelligence-Dashboard-Excel
 
 
 ---

@@ -160,12 +160,7 @@ All KPIs and charts combined into a single interactive `DASHBOARD` sheet for at-
 ## Repository Contents
 
 ```
-├── Excel_Mini_Project_1_submission.xlsx   # Full workbook (data, pivot analysis, dashboard)
-├── images/                                # Dashboard & chart screenshots for the README
-│   ├── dashboard-overview.png
-│   ├── region-wise-sales.png
-│   ├── monthly-sales-trend.png
-│   └── cancellation-rate.png
+├── Datasets
 └── README.md                              # Project documentation (this file)
 ```
 
